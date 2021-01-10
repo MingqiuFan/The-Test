@@ -2,4 +2,5 @@
 using namspace std;
 int main()
 {
+    printf("hello world!");
 }
